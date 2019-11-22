@@ -1,2 +1,2 @@
 # Python_para_zumbis
-Exercícios resolvidos do curso Python Para Zumbis.
+Exercícios resolvidos do curso Python Para Zumbis ministrado pelo
