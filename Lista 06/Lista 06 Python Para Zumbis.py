@@ -38,7 +38,8 @@ def soma_dobro(a, b):
 # diff21(19) -> 2
 # diff21(25) -> 8
 # dica: abs(x) retorna o valor absoluto de x
-def diff21(n):if n > 21:return abs (n-21)*2 return abs(n - 21)
+def diff21(n):
+  if n > 21:return abs (n-21)*2 return abs(n - 21)
 
 # E. papagaio
 # temos um papagaio que fala alto
